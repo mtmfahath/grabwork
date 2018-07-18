@@ -8,7 +8,7 @@ hr{
 }
 
 .container{
-    
+
     max-width: 980px;
     margin: 0 auto;
 }
@@ -104,16 +104,16 @@ hr{
     padding: 20px 0px;
 }
 
-@media (min-width: 320px) and (max-width: 480px) 
+@media (min-width: 320px) and (max-width: 480px)
 {
 
     .container{
-    
+
         max-width: 480px;
         margin: 0;
     }
     .row{
-    
+
     }
     .row--login-box{
         background-color: #FFFFFF;
@@ -122,7 +122,7 @@ hr{
         margin: 0 auto;
         margin-top:148px;
         border: 1px solid #DFDFDF;
-    
+
     }
     .row--login--box-heading{
         font-family: Arial, Helvetica, sans-serif;
@@ -135,14 +135,14 @@ hr{
         margin:0 auto;
         font-size: 21px;
         font-family: 'Raleway', sans-serif;
-    
+
     }
-    
+
     .row--login-credintials{
         width: 570px;
         text-align: center;
     }
-    
+
     .row--login-credintials input{
         border-style : Solid;
         border-color : #DBDBDB;
@@ -155,7 +155,7 @@ hr{
         padding-left:15px;
         margin-bottom: 20px;
     }
-    
+
     .row--login-credintials-button input[type=submit]{
         width: 386px;
         height: 55px;
@@ -167,7 +167,7 @@ hr{
         font-family: 'Raleway', sans-serif;
         margin-bottom: 30px;
     }
-    
+
     .row--signup-button input[type=button]{
         width: 386px;
         height: 55px;
@@ -179,7 +179,7 @@ hr{
         font-family: 'Raleway', sans-serif;
         margin-bottom: 30px;
     }
-    
+
     /* Signup Box */
     .row--signup-box{
         width: 570px;
@@ -191,13 +191,13 @@ hr{
         padding-top: 10px;
         text-align: center;
     }
-    
+
     .nav{
         height: 70px;
         background-color: #FFFFFF;
         width: auto;
     }
-    
+
     .nav--logo{
         width: 150px;
         margin: 0 auto;
